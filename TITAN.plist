@@ -11,7 +11,7 @@
                                                 <key>kind</key>
                                                 <string>software-package</string>
                                                 <key>url</key>
-                                                <string>https://s.beta.myapp.com/myapp/rdmexp/exp/file2/2019/06/14/comcnlanjingTITAN_1_3146e24b-289b-5228-b27b-bcfa5ab20925.ipa</string>
+                                                <string>https://s.beta.myapp.com/myapp/rdmexp/exp/file2/2019/06/15/comcnlanjingTITAN_1_c0b230f1-3cdc-5813-a94e-0cdd5f365feb.ipa</string>
                                         </dict>
                                 </array>
                                 <key>metadata</key>
@@ -19,7 +19,7 @@
                                         <key>bundle-identifier</key>
 									    <string><![CDATA[com.cn.lanjing.TITAN]]></string>
 									    <key>bundle-version</key>
-									    <string><![CDATA[1.0.3]]></string>
+									    <string><![CDATA[1.0.6]]></string>
 									    <key>kind</key>
 									    <string><![CDATA[software]]></string>
 									    <key>subtitle</key>
